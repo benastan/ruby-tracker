@@ -1,0 +1,6 @@
+[submodule "tracker-application"]
+	path = tracker-application
+	url = https://github.com/benastan/tracker-application
+[submodule "tracker-p_g"]
+	path = tracker-p_g
+	url = https://github.com/benastan/tracker-p_g
